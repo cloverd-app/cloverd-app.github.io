@@ -15,6 +15,7 @@ By accessing and using this website, you agree to be bound by these Terms & Cond
 ## Intellectual Property
 
 All content on this website, including but not limited to:
+
 - Text
 - Graphics
 - Logos
@@ -26,6 +27,7 @@ is the property of our company and is protected by intellectual property laws.
 ## User Responsibilities
 
 As a user of this website, you agree to:
+
 - Provide accurate information
 - Maintain the security of your account
 - Not engage in any harmful activities
@@ -34,6 +36,7 @@ As a user of this website, you agree to:
 ## Limitation of Liability
 
 We shall not be liable for:
+
 - Any indirect or consequential damages
 - Loss of profits or data
 - Service interruptions
@@ -42,6 +45,7 @@ We shall not be liable for:
 ## Termination
 
 We reserve the right to:
+
 - Terminate or suspend access to our service
 - Remove or edit content
 - Cancel accounts at our discretion
@@ -72,7 +76,7 @@ We reserve the right to modify these terms at any time. Continued use of the web
   display: inline-block;
   padding: 0.5rem 1rem;
   background-color: #007bff;
-  color: white;
+  color: white !important;
   text-decoration: none;
   border-radius: 4px;
   transition: background-color 0.3s;
@@ -81,4 +85,4 @@ We reserve the right to modify these terms at any time. Continued use of the web
 .nav-link:hover {
   background-color: #0056b3;
 }
-</style> 
+</style>

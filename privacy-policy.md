@@ -73,7 +73,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
   display: inline-block;
   padding: 0.5rem 1rem;
   background-color: #007bff;
-  color: white;
+  color: white !important;
   text-decoration: none;
   border-radius: 4px;
   transition: background-color 0.3s;
